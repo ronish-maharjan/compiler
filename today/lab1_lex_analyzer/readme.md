@@ -1,0 +1,3 @@
+## commands
+
+./scanner < main.c
